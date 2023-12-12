@@ -48,7 +48,7 @@ header a:hover {
 .hamburger-menu,
 .close-menu {
     display: none;
-    color: #fff;
+    color: #ffffff;
     font-size: 1.5rem;
     cursor: pointer;
 }
