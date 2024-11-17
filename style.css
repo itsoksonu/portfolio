@@ -431,6 +431,7 @@ header a:hover {
 .logo {
   margin: 10px;
   padding: 8px;
+  margin-bottom: 2rem;
   border: 2px solid #3ccf91;
   border-radius: 10px;
   background-color: #000000;
@@ -439,8 +440,8 @@ header a:hover {
 }
 
 .logo img {
-  max-width: 80px;
-  max-height: 80px;
+  max-width: 30px;
+  max-height: 30px;
 }
 
 .logo::after {
