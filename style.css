@@ -439,8 +439,8 @@ header a:hover {
 }
 
 .logo img {
-  max-width: 80px;
-  max-height: 80px;
+  max-width: 30px;
+  max-height: 30px;
 }
 
 .logo::after {
