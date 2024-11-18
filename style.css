@@ -507,13 +507,12 @@ header a:hover {
 
 a .project-link {
     text-decoration: none;
-    color: inherit;
 }
 
 a:visited .project-link {
     text-decoration: none;
-    color: inherit;
 }
+
 
 .project-container {
   display: grid;
