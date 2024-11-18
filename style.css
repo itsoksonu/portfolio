@@ -45,6 +45,7 @@ header a:hover {
     color: #3ccf91;
 }
 
+
 .hamburger-menu,
 .close-menu {
     display: none;
@@ -171,7 +172,7 @@ header a:hover {
 }
 
 .btn:hover {
-  background-color: #333;
+  background-color: #333 !important ;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -436,6 +437,7 @@ header a:hover {
   background-color: #000000;
   position: relative;
   box-shadow: 0 0 10px #3ccf91, 0 0 10px #3ccf91;
+  margin-bottom: 2rem;
 }
 
 .logo img {
@@ -753,7 +755,7 @@ header a:hover {
   clip-path: inset(3px 0px 3px 0px);
 }
 
-.fa-linkedin:hover {
+.linkedin:hover {
   color: #04669a;
   background: white;
   clip-path: inset(2px 0px 2px 0px);
