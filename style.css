@@ -456,6 +456,7 @@ header a:hover {
   color: #ffffff;
   margin-top: 10px;
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .logo:hover::after {
