@@ -505,15 +505,6 @@ header a:hover {
   color: rgb(248, 153, 0);
 }
 
-a .project-link {
-    text-decoration: none;
-}
-
-a:visited .project-link {
-    text-decoration: none;
-}
-
-
 .project-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
